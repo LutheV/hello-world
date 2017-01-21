@@ -1,5 +1,4 @@
 # hello-world
-Hello world
 
 Hello there! Beep Boop
 
